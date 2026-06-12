@@ -44,6 +44,18 @@ This framework converts raw ecommerce transactions into structured business inte
 ## Dashboard Overview (Power BI)
 
 The dashboard provides executive-level visibility into SKU performance.
+## 📊 Power BI Dashboard
+
+The Power BI dashboard provides executive-level visibility into SKU profitability, business performance, and operational risk indicators. It supports data-driven decision-making by identifying high-performing products, profitability opportunities, and areas requiring optimization.
+
+### Executive Summary
+![Executive Summary](Screenshots/PowerBI/executive_summary.png)
+
+### Profitability Analysis
+![Profitability Analysis](Screenshots/PowerBI/profitability_analysis.png)
+
+### Risk Stability
+![Risk Stability](Screenshots/PowerBI/risk_stability.png)
 
 ### Key KPIs:
 - Total Revenue: $3.59M  
