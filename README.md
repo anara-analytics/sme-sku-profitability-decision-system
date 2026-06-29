@@ -1,134 +1,111 @@
-# SME SKU Profitability Optimization & Decision Support System
-
-## Overview
-
-The SME SKU Profitability Optimization & Decision Support System is a Business Intelligence project developed to demonstrate how data analytics can support profitability improvement, operational efficiency, and strategic decision-making within ecommerce businesses.
-
-Using SQL, Excel, and Power BI...
-# SKU Profitability Optimization & Decision Support System for SMEs
+# SKU Profitability Optimization & Decision Intelligence System for E-commerce SMEs
 
 ## Executive Summary
 
-The SKU Profitability Optimization & Decision Support System is a Business Intelligence project designed to improve profitability-driven decision-making in ecommerce businesses.
+The SKU Profitability Optimization & Decision Intelligence System is a Business Intelligence framework designed to improve data-driven decision-making for small and medium-sized e-commerce enterprises (SMEs). The project demonstrates how structured analytics can transform raw transactional data into actionable insights for profitability optimization, inventory efficiency, and strategic SKU management.
 
-The project was built using the **Olist Ecommerce Dataset**, a real-world marketplace dataset containing approximately 100,000 orders from multiple sellers, customers, and logistics operations. It simulates full ecommerce business processes including revenue generation, cost structures, and customer behavior.
+Using the Olist e-commerce dataset (~100,000 real marketplace orders), the system simulates real-world e-commerce operations, including revenue tracking, cost modeling, customer behavior, and logistics performance. The goal is to replicate a decision intelligence infrastructure typically unavailable to SME-level e-commerce businesses.
 
-The system demonstrates how SQL, Excel, and Power BI can be used to transform raw transactional data into actionable financial intelligence that supports profitability optimization and operational decision-making.
+The solution integrates SQL, Excel, and Power BI to build a multi-layered analytics system that supports SKU-level profitability evaluation and structured business decision-making.
 
 ---
 
 ## Business Problem
 
-Many ecommerce SMEs focus primarily on revenue growth while lacking visibility into profitability at the product level.
+Small and medium-sized e-commerce businesses often operate without structured profitability intelligence systems. While revenue metrics are widely tracked, many SMEs lack visibility into true SKU-level profitability due to incomplete cost allocation and limited analytics infrastructure.
 
 This leads to:
-- Misallocation of inventory
-- Margin leakage
-- Inefficient product portfolio management
-- Poor pricing decisions
-- Low-performing SKUs continuing to consume resources
+
+* Inefficient inventory allocation
+* Margin leakage across product lines
+* Suboptimal pricing decisions
+* Continued investment in low-performing SKUs
+* Weak data-driven decision-making capability
 
 ---
 
 ## Solution Approach
 
-This project builds a structured profitability intelligence system that evaluates business performance beyond revenue by incorporating full cost and margin analysis.
+This project introduces a Decision Intelligence System that goes beyond descriptive reporting and enables structured business decisions.
 
-### Architecture:
-Data Layer → Cost Layer → Analytics Layer → Decision Layer
+### Architecture
 
-This framework converts raw ecommerce transactions into structured business intelligence for decision-making.
+Data Layer → Transformation Layer → Profitability Engine → Decision Layer
+
+* **Data Layer:** Raw e-commerce transactional data (orders, payments, customers, logistics)
+* **Transformation Layer:** SQL-based cleaning, joins, and cost modeling
+* **Profitability Engine:** SKU-level revenue, cost, and margin calculations
+* **Decision Layer:** Actionable classification and business recommendations
+
+---
+
+## SKU Classification Framework
+
+Products are categorized based on profitability and performance:
+
+* **Scale:** High profitability SKUs with strong growth potential
+* **Optimize:** Moderate performance SKUs requiring improvements in pricing or cost efficiency
+* **Exit:** Low or negative profitability SKUs recommended for discontinuation
 
 ---
 
 ## Dashboard Overview (Power BI)
 
-The dashboard provides executive-level visibility into SKU performance.
-## 📊 Power BI Dashboard
+The Power BI dashboard provides executive-level visibility into SKU performance and profitability drivers.
 
-The Power BI dashboard provides executive-level visibility into SKU profitability, business performance, and operational risk indicators. It supports data-driven decision-making by identifying high-performing products, profitability opportunities, and areas requiring optimization.
+### Key KPIs
 
-### Executive Summary
-![Executive Summary](Screenshots/PowerBI/executive_summary.png)
+* Total Revenue: $3.59M
+* Total Cost: $2.30M
+* Net Profit: $1.29M
+* Net Margin: 35.98%
+* Average Review Score: 4.0
 
-### Profitability Analysis
-![Profitability Analysis](Screenshots/PowerBI/profitability_analysis.png)
+### Analysis Modules
 
-### Risk Stability
-![Risk Stability](Screenshots/PowerBI/risk_stability.png)
-
-### Key KPIs:
-- Total Revenue: $3.59M  
-- Total Cost: $2.3M  
-- Net Profit: $1.29M  
-- Net Margin: 35.98%  
-- Average Review Score: 4.00  
-
----
-
-## Core Analysis
-
-### 1. Revenue vs Profitability Analysis
-Identifies how SKUs perform when revenue is compared against net margin, revealing that high revenue does not always translate into high profitability.
-
-### 2. SKU Classification Model
-
-Products are categorized into:
-
-- **Scale** → High profitability, scalable growth potential  
-- **Optimize** → Moderate performance, requires improvement  
-- **Exit** → Low or negative profitability  
+* Revenue vs Profitability Analysis
+* SKU Performance Classification
+* Margin Efficiency Breakdown
+* Operational Risk Indicators
 
 ---
 
 ## Key Insights
 
-- Revenue alone is not a reliable indicator of business performance  
-- Operational costs significantly impact profitability outcomes  
-- Some high-revenue products generate low net margins  
-- Profit-driven SKU classification improves decision-making accuracy  
+* Revenue alone is not a reliable indicator of SKU performance
+* Operational and fulfillment costs significantly impact net profitability
+* High-revenue SKUs may still underperform due to cost inefficiencies
+* Structured SKU classification improves decision-making accuracy
+* Data-driven portfolio optimization enhances operational efficiency
 
 ---
 
-## Real-World Data Foundation
+## Real-World Applicability
 
-The project uses the **Olist Ecommerce Dataset**, which represents real transactional ecommerce operations including:
+Although built using a simulated dataset, this system is designed to be directly applicable to real-world e-commerce SMEs.
 
-- Orders and payments  
-- Product and category data  
-- Customer behavior  
-- Delivery and logistics performance  
+It can support:
 
-This enables realistic simulation of ecommerce profitability analysis.
-
----
-
-## Business Impact
-
-This framework can be applied to real SME ecommerce businesses to:
-
-- Improve profitability visibility  
-- Reduce margin leakage  
-- Optimize product portfolios  
-- Enhance pricing strategy  
-- Support data-driven decision-making  
-
-It is designed as a scalable decision-support system applicable across ecommerce industries.
+* SKU-level profitability visibility
+* Inventory optimization and waste reduction
+* Pricing strategy improvement
+* Operational efficiency enhancement
+* Data-driven decision-making for small businesses
 
 ---
 
 ## Tools & Technologies
 
-- SQL (PostgreSQL) — Data modeling & transformation  
-- Microsoft Excel — Financial modeling  
-- Power BI — Dashboard & visualization  
-- Olist Dataset — Real-world ecommerce data  
+* SQL (PostgreSQL): Data extraction, transformation, and modeling
+* Microsoft Excel: Financial analysis and modeling
+* Power BI: Interactive dashboards and visualization
+* Olist Dataset: Real-world e-commerce transactional dataset
 
 ---
 
 ## Author
 
-Anara Bekbolot  
-Business Intelligence Analyst  
+**Anara Bekbolot**
+Business Intelligence Analyst (Self-Employed, E-commerce LLC)
 
-SQL | PostgreSQL | Excel | Power BI | Data Analytics | Decision Support Systems | Ecommerce Intelligence
+SQL | PostgreSQL | Excel | Power BI | Business Intelligence | Decision Systems | E-commerce Analytics
