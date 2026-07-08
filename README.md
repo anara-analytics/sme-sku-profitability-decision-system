@@ -8,6 +8,10 @@ Using the Olist e-commerce dataset (~100,000 real marketplace orders), the syste
 
 The solution integrates SQL, Excel, and Power BI to build a multi-layered analytics system that supports SKU-level profitability evaluation and structured business decision-making.
 
+## Repository Note
+
+Due to GitHub file size limitations, the complete dataset used for this project is not included in this repository. The database schema, SQL scripts, analytical workflows, financial modeling, and Power BI dashboards were developed using the complete dataset. This repository demonstrates the project's architecture, methodology, and decision-support framework.
+
 ---
 
 ## Business Problem
