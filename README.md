@@ -109,7 +109,7 @@ It can support:
 
 ## Author
 
-**Anara Bekbolot**
-Business Intelligence Analyst (Self-Employed, E-commerce LLC)
+Anara Bekbolot
+Business Intelligence Analyst & BI Consultant | Self-Employed (Axiom Distribution LLC)
+SQL | PostgreSQL | Excel | Power BI | Business Intelligence | Decision Intelligence | E-commerce Analytics
 
-SQL | PostgreSQL | Excel | Power BI | Business Intelligence | Decision Systems | E-commerce Analytics
