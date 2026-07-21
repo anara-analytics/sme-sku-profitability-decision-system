@@ -107,9 +107,18 @@ It can support:
 
 ---
 
-## Author
+---
 
-Anara Bekbolot
-Business Intelligence Analyst & BI Consultant | Self-Employed (Axiom Distribution LLC)
-SQL | PostgreSQL | Excel | Power BI | Business Intelligence | Decision Intelligence | E-commerce Analytics
+---
+
+## About the Author
+
+**Anara Bekbolot**  
+**Business Intelligence Analyst | Self-Employed (Axiom Distribution LLC)**
+
+**SQL | PostgreSQL | Excel | Power BI | Business Intelligence | Decision Intelligence | E-commerce Analytics**
+
+Focused on helping small and medium-sized businesses transform data into actionable insights through business intelligence, profitability analysis, inventory optimization, and data-driven decision-making.
+
+---
 
