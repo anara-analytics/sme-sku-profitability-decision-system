@@ -4,13 +4,13 @@
 
 The SKU Profitability Optimization & Decision Intelligence System is a Business Intelligence framework designed to improve data-driven decision-making for small and medium-sized e-commerce enterprises (SMEs). The project demonstrates how structured analytics can transform raw transactional data into actionable insights for profitability optimization, inventory efficiency, and strategic SKU management.
 
-Using the Olist e-commerce dataset (~100,000 real marketplace orders), the system simulates real-world e-commerce operations, including revenue tracking, cost modeling, customer behavior, and logistics performance. The goal is to replicate a decision intelligence infrastructure typically unavailable to SME-level e-commerce businesses.
+Using the Olist e-commerce dataset (~100,000 real marketplace orders), the system simulates real-world e-commerce operations, including revenue tracking, cost modeling, customer behavior, and logistics performance. The goal is to demonstrate a structured decision-intelligence framework that can be adapted to e-commerce SMEs with limited internal BI resources
 
 The solution integrates SQL, Excel, and Power BI to build a multi-layered analytics system that supports SKU-level profitability evaluation and structured business decision-making.
 
-## Repository Note
-
-Due to GitHub file size limitations, the complete dataset used for this project is not included in this repository. The database schema, SQL scripts, analytical workflows, financial modeling, and Power BI dashboards were developed using the complete dataset. This repository demonstrates the project's architecture, methodology, and decision-support framework.
+## Data & Methodology Note
+This independent portfolio project uses the public Olist e-commerce dataset as its transactional foundation. Due to GitHub file-size limitations, the complete dataset is not included in this repository. The database schema, SQL scripts, analytical workflows, financial modeling, and Power BI dashboards were developed using the dataset.
+Where cost information required for SKU-level profitability analysis was not available in the source data, modeled cost assumptions were introduced for analytical purposes. Accordingly, the financial results presented in this project are analytical model outputs and do not represent the financial performance of Olist, Axiom Distribution LLC, or any client.
 
 ---
 
@@ -58,6 +58,7 @@ Products are categorized based on profitability and performance:
 The Power BI dashboard provides executive-level visibility into SKU performance and profitability drivers.
 
 ### Key KPIs
+Analytical outputs generated from the public Olist e-commerce dataset. These figures are project-based analytical results and do not represent the financial performance of any client or business.
 
 * Total Revenue: $3.59M
 * Total Cost: $2.30M
@@ -86,7 +87,7 @@ The Power BI dashboard provides executive-level visibility into SKU performance 
 
 ## Real-World Applicability
 
-Although built using a simulated dataset, this system is designed to be directly applicable to real-world e-commerce SMEs.
+This independent portfolio project was developed using the public Olist e-commerce dataset. The analytical framework is designed to be adaptable to real-world e-commerce SMEs seeking structured profitability, inventory, and SKU-level decision support
 
 It can support:
 
@@ -104,10 +105,6 @@ It can support:
 * Microsoft Excel: Financial analysis and modeling
 * Power BI: Interactive dashboards and visualization
 * Olist Dataset: Real-world e-commerce transactional dataset
-
----
-
----
 
 ---
 
