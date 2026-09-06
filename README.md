@@ -4,7 +4,7 @@
 
 The SKU Profitability Optimization & Decision Intelligence System is a Business Intelligence framework designed to improve data-driven decision-making for small and medium-sized e-commerce enterprises (SMEs). The project demonstrates how structured analytics can transform raw transactional data into actionable insights for profitability optimization, inventory efficiency, and strategic SKU management.
 
-Using the Olist e-commerce dataset (~100,000 real marketplace orders), the system simulates real-world e-commerce operations, including revenue tracking, cost modeling, customer behavior, and logistics performance. The goal is to demonstrate a structured decision-intelligence framework that can be adapted to e-commerce SMEs with limited internal BI resources
+Using the Olist e-commerce dataset (~100,000 real marketplace orders), the system simulates real-world e-commerce operations, including revenue tracking, cost modeling, customer behavior, and logistics performance. The goal is to demonstrate a structured decision-intelligence framework that can be adapted to e-commerce SMEs with limited internal BI resources.
 
 The solution integrates SQL, Excel, and Power BI to build a multi-layered analytics system that supports SKU-level profitability evaluation and structured business decision-making.
 
@@ -87,7 +87,7 @@ Analytical outputs generated from the public Olist e-commerce dataset. These fig
 
 ## Real-World Applicability
 
-This independent portfolio project was developed using the public Olist e-commerce dataset. The analytical framework is designed to be adaptable to real-world e-commerce SMEs seeking structured profitability, inventory, and SKU-level decision support
+This independent portfolio project was developed using the public Olist e-commerce dataset. The analytical framework is designed to be adaptable to real-world e-commerce SMEs seeking structured profitability, inventory, and SKU-level decision support.
 
 It can support:
 
@@ -104,7 +104,7 @@ It can support:
 * SQL (PostgreSQL): Data extraction, transformation, and modeling
 * Microsoft Excel: Financial analysis and modeling
 * Power BI: Interactive dashboards and visualization
-* Olist Dataset: Real-world e-commerce transactional dataset
+* Olist Dataset: Publicly available real-world e-commerce transactional dataset
 
 ---
 
