@@ -10,8 +10,7 @@ The solution integrates SQL, Excel, and Power BI to build a multi-layered analyt
 
 ## Data & Methodology Note
 This independent portfolio project uses the public Olist e-commerce dataset as its transactional foundation. Due to GitHub file-size limitations, the complete dataset is not included in this repository. The database schema, SQL scripts, analytical workflows, financial modeling, and Power BI dashboards were developed using the dataset.
-Where cost information required for SKU-level profitability analysis was not available in the source data, modeled cost assumptions were introduced for analytical purposes. Accordingly, the financial results presented in this project are analytical model outputs and do not represent the financial performance of Olist, Axiom Distribution LLC, or any client.
-
+Where cost information required for SKU-level profitability analysis was not available in the source data, modeled cost assumptions were introduced for analytical purposes. Accordingly, the financial results presented in this project are analytical model outputs and do not represent the actual financial performance of Olist or any client.
 ---
 
 ## Business Problem
